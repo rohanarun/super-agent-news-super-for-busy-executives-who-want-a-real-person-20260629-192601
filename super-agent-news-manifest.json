@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com)",
+    "[wsj.com](https://www.wsj.com)",
+    "[time.com](https://time.com)",
+    "[blog.google](https://blog.google)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng=42; AIDA=checked; hero_width\u22481120px; bento_density=grid-auto-flow:dense; competitors_label_sweep=ok; CTA_contrast=black_on_paper; animations_guarded=true",
+  "generated_at": "2026-06-29T19:26:08.306549+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A cinematic, conversion-focused landing page positioning Super as the sharper alternative for busy executives who want a real personal assistant\u2014one that can actually operate computers, reuse a computer-use cache, and handle repeated executive workflows end\u2011to\u2011end."
+}
